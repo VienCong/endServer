@@ -8,7 +8,7 @@ router.post('/stock', function (req, res) {
     res.json({
         code: 0,
         data: [{
-            name: '五月天',
+            name: '天使',
             age: 18
         }],
         msg: 'success'
